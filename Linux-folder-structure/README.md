@@ -15,7 +15,7 @@ This guide is inspired by the incredible work of [Abhishek Veeramalla](https://g
 - 📖 [GitHub Repo: Ultimate Linux Guide](https://github.com/iam-veeramalla/ultimate-linux-guide)
 - 🎥 [YouTube Video on Linux Folder Structure](https://www.youtube.com/watch?v=3WbDexOsVXw)
 
-All credit for foundational material goes to him — I’ve just tried to put it together in a my way for myself and sharing here.
+All credit for foundational material goes to him — I’ve just tried to put it together in my way for myself and sharing here.
 
 ## 📂 Preview
 
