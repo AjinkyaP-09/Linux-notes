@@ -28,8 +28,7 @@ Here’s a sneak peek of what’s explained:
 - `/home`: User-specific directories
 - ... and more!
 
-## 👤 Author
-
-[Ajinkya Pame](https://www.linkedin.com/in/ajinkya-pame-4a752b346)
+***Ajinkya Pame***
+[LinkedIN](https://www.linkedin.com/in/ajinkya-pame-4a752b346)
 
 ---
