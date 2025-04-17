@@ -46,13 +46,6 @@ I created this as a self-reference and learning resource while watching and read
 
 ---
 
-## 👤 Author
-
 **Ajinkya Pame**  
 [LinkedIn](https://www.linkedin.com/in/ajinkya-pame-4a752b346)
 
----
-
-## 📜 License
-
-This is a learning resource. Feel free to fork, clone, or use it to help others learn!
