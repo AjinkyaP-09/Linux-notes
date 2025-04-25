@@ -2,9 +2,9 @@
 
 This doc is a simplified and practical guide to understanding **Linux File Permissions** — a critical concept for anyone managing files in a Linux environment or working toward a DevOps role.
 
-> ✅ Created while learning from [Abhishek Veeramalla's](https://github.com/iam-veeramalla/ultimate-linux-guide) fantastic [YouTube tutorial](https://youtu.be/kqTgHRKeb04?si=0qXi4ISEJZ8h7Fkj).  
-> Highly recommend checking out his content for clear explanations and real-world demos.  
-> This doc compiles everything I learned in a beginner-friendly format.
+*Created while learning from [Abhishek Veeramalla's](https://github.com/iam-veeramalla/ultimate-linux-guide) fantastic [YouTube tutorial](https://youtu.be/kqTgHRKeb04?si=0qXi4ISEJZ8h7Fkj).  
+Highly recommend checking out his content for clear explanations and real-world demos.  
+This doc compiles everything I learned in a beginner-friendly format.*
 
 ---
 
