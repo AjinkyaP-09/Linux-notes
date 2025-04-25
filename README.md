@@ -3,3 +3,4 @@ The whole repository is based on the Youtube Playlist by [Abhishek Veeramalla](h
 The concepts that are covered in this repository are:
 1. Linux-folder-structure
 2. Linux-user-&-file-management-and-vi-editor
+3. Linux-file-permissions
